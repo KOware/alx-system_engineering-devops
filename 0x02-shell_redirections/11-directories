@@ -1,0 +1,2 @@
+#!/bin?bash
+find . -type d ! -pasth . -print | wc -1
